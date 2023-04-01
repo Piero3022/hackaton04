@@ -1,0 +1,215 @@
+header{
+    
+    position: absolute;
+    background-image: url(/imagenes/1.png);
+    width: 1200px;
+    height: 700px;
+    left: 150px;
+    top: 0px;
+
+}
+
+.titulo{
+    position: relative;
+    color: white;
+    left: 130px;
+    font-size: 150px;
+}
+
+.nombre{
+
+    position: relative;
+    left: 850px;
+    font-size: 25px;
+    width: 230px ;
+    height: 120px;
+    color: white;
+    text-align: center;
+    z-index: 20;
+}
+
+.cuadro{
+
+    position: relative;
+    left: 850px;
+    width: 230px ;
+    top: -130px;
+    height: 120px;
+    color: white;
+    background-color:cornflowerblue;
+    border-radius: 2em;
+    opacity: 0.6;
+    z-index: 10;
+
+}
+
+.sobre_mi {
+
+    position:absolute;
+    top: 700px;
+    width: 1200px;
+    height: 600px;
+    left: 150px;
+    background-color: #7299FE;
+    font-family: cursive;
+}
+
+.tituloPARRF{
+
+    text-align: center;
+    position: relative;
+    font-size: 35px;
+    color: #1D06A7;
+}
+
+.Descripcion{
+
+    text-align: center;
+    position: relative;
+    top: 45px;
+    color: white;
+
+}
+
+.verCV {
+
+    text-decoration: none;
+    position: relative;
+    left: 100px;
+    top: 100px;
+    background-color: #D16FFF;
+    font-size: 45px;
+    color: white;
+    border-radius: 1em;
+}
+
+.mis_skills{
+    position: absolute;
+    background-color: #9022FF;
+    top: 1300px;
+    height: 700px;
+    width: 1200px;
+    left: 150px;
+    font-family: cursive;
+    color:#26CC4B;
+    font-size: 30px;
+    text-align: center;
+    
+
+}
+
+progress{
+
+    color:#57EFF9;
+    width: 40%;
+    
+}
+.cajaIZQ{
+
+    display: block;
+    font-size: 30px;
+    color: white;
+    text-align: left;
+    position: relative;
+    left: 120px;
+    top: 90px;
+}
+
+.cajaDER{
+    display: block;
+    font-size: 30px;
+    color: white;
+    text-align: left;
+    position: relative;
+    left: 650px;
+    top: -155px;
+    
+}
+
+h4, h5{
+
+    color: #00AD84;
+    font-size: 30px;
+    font-family: cursive;
+    text-align: center;
+}
+
+h5{
+    color: 
+    #ADFF28;
+}
+
+.clientes{
+
+    position: absolute;
+    background-color: #F7D356;
+    top: 2000px;
+    height: 700px;
+    width: 1200px;
+    left: 150px;
+
+}
+
+.imagen1{
+    position: relative;
+    width: 90%;
+    left: 65px;
+
+}
+
+.imagen2{
+
+    position: relative;
+    width: 90%;
+    left: 65px;
+}
+
+.contacto{
+    position: absolute;
+    top: 2700px;
+    height: 400px;
+    width: 1200px;
+    left: 150px;
+    background-color: #424D60;
+
+}
+
+form{
+
+    text-align: center;
+    position: absolute;
+    top: 3100px ;
+    left: 150px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    width: 1200px;
+    height: 500px;
+    border: 0px solid #ccc;
+    background-color: darkcyan;
+    
+}
+
+input,textarea{
+    
+    font-family: cursive;
+    border: 7px 
+    
+    
+}
+
+.desc{
+    width: 60%;
+}
+
+.hj{
+    width: 30%
+}
+.hjk{
+    width: 30%
+}
+.hjkl{
+    width: 30%
+}
+.hjklm{
+    width: 30%
+}
